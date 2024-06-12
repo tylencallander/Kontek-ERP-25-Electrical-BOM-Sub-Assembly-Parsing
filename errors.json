@@ -1,0 +1,137 @@
+{
+    "REMOVED": [
+        {
+            "item_no": "IP7101",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "A1412CH"
+        },
+        {
+            "item_no": null,
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "A14P12"
+        },
+        {
+            "item_no": "JB1",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "RHJ1816HWPL2LG"
+        },
+        {
+            "item_no": null,
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "A18P16"
+        },
+        {
+            "item_no": "JB2100",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "A1412CH"
+        },
+        {
+            "item_no": null,
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "A14P12"
+        },
+        {
+            "item_no": "JB6000",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "JBX664"
+        },
+        {
+            "item_no": null,
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "BP66CSW"
+        },
+        {
+            "item_no": "MSP7102",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "3RV2011-1FA20"
+        },
+        {
+            "item_no": "ol",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "3RV2901-2F"
+        },
+        {
+            "item_no": "conn",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "3RA2911-2AA00"
+        },
+        {
+            "item_no": "aux",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "3RT2015-2BB41"
+        },
+        {
+            "item_no": "disc",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "LBS-RLO16/3PM-D1/Z33/GB"
+        },
+        {
+            "item_no": "CB1419",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "M9F42101"
+        },
+        {
+            "item_no": null,
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "SPA-2-HT-20W-WT40-12"
+        },
+        {
+            "item_no": "CB1902",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "M9F42110"
+        },
+        {
+            "item_no": "CB2002",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "M9F42110"
+        },
+        {
+            "item_no": "CB2421",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "M9F42170"
+        },
+        {
+            "item_no": "CB2421A",
+            "quantity": 1,
+            "received": null,
+            "from_stock": null,
+            "catalog": "M9F42170"
+        }
+    ]
+}
