@@ -3,17 +3,13 @@ import json
 import openpyxl
 
 def parse_bom_excel(input_file):
-    # Load the workbook and select the first sheet
     wb = openpyxl.load_workbook(input_file)
     ws = wb.active
 
-    errors = {"REMOVED": []}  # Only logging rows with red fill under "REMOVED"
+    errors = {"REMOVED": []}  
 
-    # Iterate over rows in the specified worksheet
     for row in ws.iter_rows(min_row=2):
-        # Check if the cell is marked with the 'red' fill color
-        if row[0].fill.start_color.index == 'FFFF0000':  # Assuming first cell's color is indicative of the entire row
-            # Extract values safely
+        if row[0].fill.start_color.index == 'FFFF0000':  
             item_no = row[0].value if row[0] is not None else ''
             quantity = row[1].value if row[1] is not None else 0
             received = row[2].value if row[2] is not None else ''
