@@ -17,9 +17,9 @@ def parse_bom_excel(input_file):
             part_no = row[4].value if row[4].value is not None else ''
 
             errors['REMOVED'].append({
-                'part_no': part_no
+                'part_no': part_no,
                 'parent_assembly': parent_assembly,
-                'quantity': quantity,
+                'quantity': quantity
             })
             print(f"Logged removed part: {part_no}")
         else:
