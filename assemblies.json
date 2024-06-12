@@ -1,1474 +1,1606 @@
 {
-    "LOCAL CONTROL PANEL": {
-        "item_no": "LOCAL CONTROL PANEL",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "A727212ULPG",
-        "assemblies": {}
-    },
-    "IP1200": {
-        "item_no": "IP1200",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "T102-20-0001",
-        "assemblies": {}
-    },
-    "IP1300": {
-        "item_no": "IP1300",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "T102-20-0001",
-        "assemblies": {}
-    },
-    "IP1400": {
-        "item_no": "IP1400",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "T102-20-0001",
-        "assemblies": {}
-    },
-    "IP1403": {
-        "item_no": "IP1403",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "A1412CH",
-        "assemblies": {}
-    },
-    "IP2100": {
-        "item_no": "IP2100",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "A16148CH",
-        "assemblies": {}
-    },
-    "PPCS": {
-        "item_no": "PPCS",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "A202008LP",
-        "assemblies": {}
-    },
-    "JB1A": {
-        "item_no": "JB1A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "RHJ1412HWPL2LG",
-        "assemblies": {}
-    },
-    "JB1B": {
-        "item_no": "JB1B",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "RHJ1412HWPL2LG",
-        "assemblies": {}
-    },
-    "JB1C": {
-        "item_no": "JB1C",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "RHJ1412HWPL2LG",
-        "assemblies": {}
-    },
-    "JB2": {
-        "item_no": "JB2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "RHJ1412HWPL2LG",
-        "assemblies": {}
-    },
-    "JB1200": {
-        "item_no": "JB1200",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB1201": {
-        "item_no": "JB1201",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB1251": {
-        "item_no": "JB1251",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB1300": {
-        "item_no": "JB1300",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB1301": {
-        "item_no": "JB1301",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB1351": {
-        "item_no": "JB1351",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB2000": {
-        "item_no": "JB2000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB2103": {
-        "item_no": "JB2103",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB2901": {
-        "item_no": "JB2901",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB2903": {
-        "item_no": "JB2903",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB6100": {
-        "item_no": "JB6100",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB6101": {
-        "item_no": "JB6101",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB6151": {
-        "item_no": "JB6151",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "JB7102": {
-        "item_no": "JB7102",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "JBX664",
-        "assemblies": {}
-    },
-    "DS602": {
-        "item_no": "DS602",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "GS2JU3N",
-        "assemblies": {}
-    },
-    "FU602": {
-        "item_no": "FU602",
-        "quantity": 3,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LPJ-80SP",
-        "assemblies": {}
-    },
-    "PDB604": {
-        "item_no": "PDB604",
-        "quantity": 3,
-        "received": null,
-        "from_stock": null,
-        "catalog": "569030",
-        "assemblies": {}
-    },
-    "MSP1200-1": {
-        "item_no": "MSP1200-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "ol": {
-        "item_no": "ol",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2901-2F",
-        "assemblies": {}
-    },
-    "conn": {
-        "item_no": "conn",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RA2911-2AA00",
-        "assemblies": {}
-    },
-    "aux": {
-        "item_no": "aux",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RT2015-2BB41",
-        "assemblies": {}
-    },
-    "disc": {
-        "item_no": "disc",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LBS-RLO16/3PM-D1/Z33/GB",
-        "assemblies": {}
-    },
-    "MSP1200-2": {
-        "item_no": "MSP1200-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP1201-1": {
-        "item_no": "MSP1201-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP1201-2": {
-        "item_no": "MSP1201-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP1300-1": {
-        "item_no": "MSP1300-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP1300-2": {
-        "item_no": "MSP1300-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP1301-1": {
-        "item_no": "MSP1301-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP1301-2": {
-        "item_no": "MSP1301-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP1403": {
-        "item_no": "MSP1403",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1FA20",
-        "assemblies": {}
-    },
-    "MSP2101": {
-        "item_no": "MSP2101",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1FA20",
-        "assemblies": {}
-    },
-    "MSP6100-1": {
-        "item_no": "MSP6100-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP6100-2": {
-        "item_no": "MSP6100-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1BA20",
-        "assemblies": {}
-    },
-    "MSP6101-1": {
-        "item_no": "MSP6101-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP6101-2": {
-        "item_no": "MSP6101-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP6102": {
-        "item_no": "MSP6102",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1DA20",
-        "assemblies": {}
-    },
-    "MSP7101": {
-        "item_no": "MSP7101",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1FA20",
-        "assemblies": {}
-    },
-    "MSP1201": {
-        "item_no": "MSP1201",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1AA20",
-        "assemblies": {}
-    },
-    "MSP1301": {
-        "item_no": "MSP1301",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1AA20",
-        "assemblies": {}
-    },
-    "MSP1302": {
-        "item_no": "MSP1302",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1AA20",
-        "assemblies": {}
-    },
-    "MSP1401": {
-        "item_no": "MSP1401",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1AA20",
-        "assemblies": {}
-    },
-    "MSP1402": {
-        "item_no": "MSP1402",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1AA20",
-        "assemblies": {}
-    },
-    "MSP2102": {
-        "item_no": "MSP2102",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1EA20",
-        "assemblies": {}
-    },
-    "VFD": {
-        "item_no": "VFD",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6SL3220-3YE10-0UF0",
-        "assemblies": {}
-    },
-    "MSP3002": {
-        "item_no": "MSP3002",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1CA20",
-        "assemblies": {}
-    },
-    "MSP2000": {
-        "item_no": "MSP2000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1JA20",
-        "assemblies": {}
-    },
-    "DS2000": {
-        "item_no": "DS2000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LBS-RLO16/3PM-D1/Z33/GB",
-        "assemblies": {}
-    },
-    "MSP7102": {
-        "item_no": "MSP7102",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2011-1FA20",
-        "assemblies": {}
-    },
-    "DS7102": {
-        "item_no": "DS7102",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LBS-RLO16/3PM-D1/Z33/GB",
-        "assemblies": {}
-    },
-    "FU1404": {
-        "item_no": "FU1404",
-        "quantity": 2,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LPJ-40SP",
-        "assemblies": {}
-    },
-    "XF1406": {
-        "item_no": "XF1406",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "Q007LEKF",
-        "assemblies": {}
-    },
-    "FU1407": {
-        "item_no": "FU1407",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LPJ-80SP",
-        "assemblies": {}
-    },
-    "PDB1407": {
-        "item_no": "PDB1407",
-        "quantity": 2,
-        "received": null,
-        "from_stock": null,
-        "catalog": "569030",
-        "assemblies": {}
-    },
-    "CB1411": {
-        "item_no": "CB1411",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "ESTOP-LCP": {
-        "item_no": "ESTOP-LCP",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T5",
-        "assemblies": {}
-    },
-    "MCR1411": {
-        "item_no": "MCR1411",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "700-P400A1",
-        "assemblies": {}
-    },
-    "LT1413": {
-        "item_no": "LT1413",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T297L",
-        "assemblies": {}
-    },
-    "CB1419": {
-        "item_no": "CB1419",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "PANEL LIGHT": {
-        "item_no": "PANEL LIGHT",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "BY SHOP",
-        "assemblies": {}
-    },
-    "CB1422": {
-        "item_no": "CB1422",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42108",
-        "assemblies": {}
-    },
-    "CB1426": {
-        "item_no": "CB1426",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42105",
-        "assemblies": {}
-    },
-    "CR-MSX3001": {
-        "item_no": "CR-MSX3001",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "56.32.9.024.0074",
-        "assemblies": {}
-    },
-    "DS3001": {
-        "item_no": "DS3001",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "LBS-RLO16/3PM-D1/Z33/GB",
-        "assemblies": {}
-    },
-    "CB1526": {
-        "item_no": "CB1526",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42170",
-        "assemblies": {}
-    },
-    "LSH6000": {
-        "item_no": "LSH6000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "CB1602": {
-        "item_no": "CB1602",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42170",
-        "assemblies": {}
-    },
-    "LSL6201": {
-        "item_no": "LSL6201",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "LSL6301": {
-        "item_no": "LSL6301",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "LSL6502": {
-        "item_no": "LSL6502",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "LSL6602": {
-        "item_no": "LSL6602",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "LSL6701": {
-        "item_no": "LSL6701",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "LSL6702": {
-        "item_no": "LSL6702",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3UG4501-1AW30",
-        "assemblies": {}
-    },
-    "CB1902": {
-        "item_no": "CB1902",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CR-MP6201": {
-        "item_no": "CR-MP6201",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6202": {
-        "item_no": "CR-MP6202",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6301": {
-        "item_no": "CR-MP6301",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CB1917": {
-        "item_no": "CB1917",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "M9F42106",
-        "assemblies": {}
-    },
-    "CR-MP6501": {
-        "item_no": "CR-MP6501",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6502": {
-        "item_no": "CR-MP6502",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6503": {
-        "item_no": "CR-MP6503",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6504": {
-        "item_no": "CR-MP6504",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CB2002": {
-        "item_no": "CB2002",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CR-MP6601": {
-        "item_no": "CR-MP6601",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6602": {
-        "item_no": "CR-MP6602",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6603": {
-        "item_no": "CR-MP6603",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CB2017": {
-        "item_no": "CB2017",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "CR-MP6701": {
-        "item_no": "CR-MP6701",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MP6702": {
-        "item_no": "CR-MP6702",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CB2026": {
-        "item_no": "CB2026",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CR-MP6901": {
-        "item_no": "CR-MP6901",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CB2202": {
-        "item_no": "CB2202",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42105",
-        "assemblies": {}
-    },
-    "SS2202": {
-        "item_no": "SS2202",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "4983-PF120-05",
-        "assemblies": {}
-    },
-    "CB2208": {
-        "item_no": "CB2208",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "RECPT-LCP": {
-        "item_no": "RECPT-LCP",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "DAP3BC-SO-5U",
-        "assemblies": {}
-    },
-    "CB2303": {
-        "item_no": "CB2303",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42110",
-        "assemblies": {}
-    },
-    "PWS2303": {
-        "item_no": "PWS2303",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6EP1336-2BA10",
-        "assemblies": {}
-    },
-    "CB2308": {
-        "item_no": "CB2308",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42110",
-        "assemblies": {}
-    },
-    "PWS2308": {
-        "item_no": "PWS2308",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6EP1336-2BA10",
-        "assemblies": {}
-    },
-    "CB2313": {
-        "item_no": "CB2313",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42110",
-        "assemblies": {}
-    },
-    "PWS2313": {
-        "item_no": "PWS2313",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6EP1336-2BA10",
-        "assemblies": {}
-    },
-    "CB2316": {
-        "item_no": "CB2316",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42120",
-        "assemblies": {}
-    },
-    "CB2318": {
-        "item_no": "CB2318",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42120",
-        "assemblies": {}
-    },
-    "CB2320": {
-        "item_no": "CB2320",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42120",
-        "assemblies": {}
-    },
-    "PDB2320": {
-        "item_no": "PDB2320",
-        "quantity": 2,
-        "received": null,
-        "from_stock": null,
-        "catalog": "569030",
-        "assemblies": {}
-    },
-    "CB2327": {
-        "item_no": "CB2327",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "EWON-LCP": {
-        "item_no": "EWON-LCP",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "FLEXY205",
-        "assemblies": {}
-    },
-    "WIFI CARD": {
-        "item_no": "WIFI CARD",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "FLB3271",
-        "assemblies": {}
-    },
-    "CB2331": {
-        "item_no": "CB2331",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "ES-LCP-1": {
-        "item_no": "ES-LCP-1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6GK5008-0BA10-1AB2",
-        "assemblies": {}
-    },
-    "ES-LCP-2": {
-        "item_no": "ES-LCP-2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "6GK5008-0BA10-1AB2",
-        "assemblies": {}
-    },
-    "CB2336": {
-        "item_no": "CB2336",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "HMI-LCP": {
-        "item_no": "HMI-LCP",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6AV2 124-0MC01-0AX0",
-        "assemblies": {}
-    },
-    "CB2340": {
-        "item_no": "CB2340",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "RACK 1 SLOT 0": {
-        "item_no": "RACK 1 SLOT 0",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 505-0RA00-0AB0",
-        "assemblies": {}
-    },
-    "CR-PS2901": {
-        "item_no": "CR-PS2901",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "XL2903": {
-        "item_no": "XL2903",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T197L",
-        "assemblies": {}
-    },
-    "CB2405": {
-        "item_no": "CB2405",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42170",
-        "assemblies": {}
-    },
-    "CB2405A": {
-        "item_no": "CB2405A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42170",
-        "assemblies": {}
-    },
-    "CB2407": {
-        "item_no": "CB2407",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2407A": {
-        "item_no": "CB2407A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "ETHERNET SPLITTER": {
-        "item_no": "ETHERNET SPLITTER",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "2904290",
-        "assemblies": {}
-    },
-    "CB2413": {
-        "item_no": "CB2413",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "CB2413A": {
-        "item_no": "CB2413A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "CB2415": {
-        "item_no": "CB2415",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2415A": {
-        "item_no": "CB2415A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2423": {
-        "item_no": "CB2423",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2423A": {
-        "item_no": "CB2423A",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "ES-IP2100": {
-        "item_no": "ES-IP2100",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "EKI-2525LI",
-        "assemblies": {}
-    },
-    "CB2503": {
-        "item_no": "CB2503",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2505": {
-        "item_no": "CB2505",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42104",
-        "assemblies": {}
-    },
-    "CB2507": {
-        "item_no": "CB2507",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "CB2509": {
-        "item_no": "CB2509",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CB2511": {
-        "item_no": "CB2511",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CB2513": {
-        "item_no": "CB2513",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CB2515": {
-        "item_no": "CB2515",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CB2517": {
-        "item_no": "CB2517",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42102",
-        "assemblies": {}
-    },
-    "CB2519": {
-        "item_no": "CB2519",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42105",
-        "assemblies": {}
-    },
-    "CB2527": {
-        "item_no": "CB2527",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42105",
-        "assemblies": {}
-    },
-    "CB2529": {
-        "item_no": "CB2529",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42105",
-        "assemblies": {}
-    },
-    "CB2531": {
-        "item_no": "CB2531",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "M9F42103",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 1": {
-        "item_no": "RACK1 SLOT 1",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 515-2AM01-0AB0",
-        "assemblies": {}
-    },
-    "MEMORY CARD": {
-        "item_no": "MEMORY CARD",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 954-8LP02-0AA0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 2": {
-        "item_no": "RACK1 SLOT 2",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "FRONT CONNECTOR": {
-        "item_no": "FRONT CONNECTOR",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 592-1BM00-0XB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 3": {
-        "item_no": "RACK1 SLOT 3",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 4": {
-        "item_no": "RACK1 SLOT 4",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 5": {
-        "item_no": "RACK1 SLOT 5",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 6": {
-        "item_no": "RACK1 SLOT 6",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 7": {
-        "item_no": "RACK1 SLOT 7",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 8": {
-        "item_no": "RACK1 SLOT 8",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 9": {
-        "item_no": "RACK1 SLOT 9",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 531-7KF00-0AB0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 10": {
-        "item_no": "RACK1 SLOT 10",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 521-1BL10-0AA0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 11": {
-        "item_no": "RACK1 SLOT 11",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 522-1BL10-0AA0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 12": {
-        "item_no": "RACK1 SLOT 12",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 522-1BL10-0AA0",
-        "assemblies": {}
-    },
-    "RACK1 SLOT 13": {
-        "item_no": "RACK1 SLOT 13",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "6ES7 522-1BH10-0AA0",
-        "assemblies": {}
-    },
-    "PB2901": {
-        "item_no": "PB2901",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T103",
-        "assemblies": {}
-    },
-    "PB2902": {
-        "item_no": "PB2902",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T102",
-        "assemblies": {}
-    },
-    "CR-UV2000": {
-        "item_no": "CR-UV2000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-VFD2000": {
-        "item_no": "CR-VFD2000",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "CR-MS(MOONSTONE)": {
-        "item_no": "CR-MS(MOONSTONE)",
-        "quantity": 1,
-        "received": null,
-        "from_stock": 1,
-        "catalog": "38.51.7.024.0050",
-        "assemblies": {}
-    },
-    "STACKLIGHT-LCP": {
-        "item_no": "STACKLIGHT-LCP",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "SL7-CB-100",
-        "assemblies": {}
-    },
-    "XL2901": {
-        "item_no": "XL2901",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T197L",
-        "assemblies": {}
-    },
-    "XL2902": {
-        "item_no": "XL2902",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "10250T197L",
-        "assemblies": {}
-    },
-    "I/O IND": {
-        "assemblies": {
-            " FUSEBLOCK": {
-                "item_no": "I/O IND. FUSEBLOCK",
-                "quantity": 153,
-                "received": null,
-                "from_stock": "BY SHOP",
-                "catalog": "0222760001",
-                "assemblies": {}
-            }
+    "LOCAL CONTROL PANEL": [
+        {
+            "part_no": "A727212ULPG",
+            "parent_assembly": "LOCAL CONTROL PANEL",
+            "quantity": 1
+        },
+        {
+            "part_no": "A72P72",
+            "parent_assembly": "LOCAL CONTROL PANEL",
+            "quantity": 1
+        },
+        {
+            "part_no": "AASHLF1818",
+            "parent_assembly": "LOCAL CONTROL PANEL",
+            "quantity": 1
+        },
+        {
+            "part_no": "SPA-2-HT-20W-WT40-12",
+            "parent_assembly": "LOCAL CONTROL PANEL",
+            "quantity": 1
         }
-    },
-    "I/O FUSES 0": {
-        "assemblies": {
-            "2A": {
-                "item_no": "I/O FUSES 0.2A",
-                "quantity": 64,
-                "received": null,
-                "from_stock": "BY SHOP",
-                "catalog": "GGM2/10",
-                "assemblies": {}
-            },
-            "5A": {
-                "item_no": "I/O FUSES 0.5A",
-                "quantity": 89,
-                "received": null,
-                "from_stock": "BY SHOP",
-                "catalog": "GGM1/2",
-                "assemblies": {}
-            }
+    ],
+    "IP1200": [
+        {
+            "part_no": "T102-20-0001",
+            "parent_assembly": "IP1200",
+            "quantity": 1
+        },
+        {
+            "part_no": "T102-20-0001IP",
+            "parent_assembly": "IP1200",
+            "quantity": 1
         }
-    },
-    "3ph 2 slot\n+ end cover": {
-        "item_no": "3ph 2 slot\n+ end cover",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2917-1A",
-        "assemblies": {}
-    },
-    "2 slot ext +\next connector": {
-        "item_no": "2 slot ext +\next connector",
-        "quantity": 1,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2917-4A",
-        "assemblies": {}
-    },
-    "3 slot ext": {
-        "item_no": "3 slot ext",
-        "quantity": 7,
-        "received": null,
-        "from_stock": null,
-        "catalog": "3RV2917-4B",
-        "assemblies": {}
-    },
-    "S00 top conn": {
-        "assemblies": {
-            "": {
-                "item_no": "S00 top conn.",
-                "quantity": 24,
-                "received": null,
-                "from_stock": null,
-                "catalog": "3RV2917-5AA00",
-                "assemblies": {}
-            }
+    ],
+    "IP1300": [
+        {
+            "part_no": "T102-20-0001",
+            "parent_assembly": "IP1300",
+            "quantity": 1
+        },
+        {
+            "part_no": "T102-20-0001IP",
+            "parent_assembly": "IP1300",
+            "quantity": 1
         }
-    },
-    "S00 cont": {
-        "assemblies": {
-            " base": {
-                "item_no": "S00 cont. base",
-                "quantity": 24,
-                "received": null,
-                "from_stock": null,
-                "catalog": "3RV2917-7AA00",
-                "assemblies": {}
-            }
+    ],
+    "IP1400": [
+        {
+            "part_no": "T102-20-0001",
+            "parent_assembly": "IP1400",
+            "quantity": 1
+        },
+        {
+            "part_no": "T102-20-0001IP",
+            "parent_assembly": "IP1400",
+            "quantity": 1
         }
-    }
+    ],
+    "IP1403": [
+        {
+            "part_no": "A1412CH",
+            "parent_assembly": "IP1403",
+            "quantity": 1
+        },
+        {
+            "part_no": "A14P12",
+            "parent_assembly": "IP1403",
+            "quantity": 1
+        }
+    ],
+    "IP2100": [
+        {
+            "part_no": "A16148CH",
+            "parent_assembly": "IP2100",
+            "quantity": 1
+        },
+        {
+            "part_no": "A16P14",
+            "parent_assembly": "IP2100",
+            "quantity": 1
+        }
+    ],
+    "PPCS": [
+        {
+            "part_no": "A202008LP",
+            "parent_assembly": "PPCS",
+            "quantity": 1
+        },
+        {
+            "part_no": "A20P20",
+            "parent_assembly": "PPCS",
+            "quantity": 1
+        }
+    ],
+    "JB1A": [
+        {
+            "part_no": "RHJ1412HWPL2LG",
+            "parent_assembly": "JB1A",
+            "quantity": 1
+        },
+        {
+            "part_no": "A14P12",
+            "parent_assembly": "JB1A",
+            "quantity": 1
+        }
+    ],
+    "JB1B": [
+        {
+            "part_no": "RHJ1412HWPL2LG",
+            "parent_assembly": "JB1B",
+            "quantity": 1
+        },
+        {
+            "part_no": "A14P12",
+            "parent_assembly": "JB1B",
+            "quantity": 1
+        }
+    ],
+    "JB1C": [
+        {
+            "part_no": "RHJ1412HWPL2LG",
+            "parent_assembly": "JB1C",
+            "quantity": 1
+        },
+        {
+            "part_no": "A14P12",
+            "parent_assembly": "JB1C",
+            "quantity": 1
+        }
+    ],
+    "JB2": [
+        {
+            "part_no": "RHJ1412HWPL2LG",
+            "parent_assembly": "JB2",
+            "quantity": 1
+        },
+        {
+            "part_no": "A14P12",
+            "parent_assembly": "JB2",
+            "quantity": 1
+        }
+    ],
+    "JB1200": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1200",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1200",
+            "quantity": 1
+        }
+    ],
+    "JB1201": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1201",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1201",
+            "quantity": 1
+        }
+    ],
+    "JB1251": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1251",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1251",
+            "quantity": 1
+        }
+    ],
+    "JB1300": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1300",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1300",
+            "quantity": 1
+        }
+    ],
+    "JB1301": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1301",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1301",
+            "quantity": 1
+        }
+    ],
+    "JB1351": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB1351",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB1351",
+            "quantity": 1
+        }
+    ],
+    "JB2000": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB2000",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB2000",
+            "quantity": 1
+        }
+    ],
+    "JB2103": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB2103",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB2103",
+            "quantity": 1
+        }
+    ],
+    "JB2901": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB2901",
+            "quantity": 1
+        }
+    ],
+    "JB2903": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB2903",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB2903",
+            "quantity": 1
+        }
+    ],
+    "JB6100": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB6100",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB6100",
+            "quantity": 1
+        }
+    ],
+    "JB6101": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB6101",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB6101",
+            "quantity": 1
+        }
+    ],
+    "JB6151": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB6151",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB6151",
+            "quantity": 1
+        }
+    ],
+    "JB7102": [
+        {
+            "part_no": "JBX664",
+            "parent_assembly": "JB7102",
+            "quantity": 1
+        },
+        {
+            "part_no": "BP66CSW",
+            "parent_assembly": "JB7102",
+            "quantity": 1
+        }
+    ],
+    "DS602": [
+        {
+            "part_no": "GS2JU3N",
+            "parent_assembly": "DS602",
+            "quantity": 1
+        },
+        {
+            "part_no": "GS2AH440",
+            "parent_assembly": "DS602",
+            "quantity": 1
+        },
+        {
+            "part_no": "GS2AE2",
+            "parent_assembly": "DS602",
+            "quantity": 1
+        }
+    ],
+    "FU602": [
+        {
+            "part_no": "LPJ-80SP",
+            "parent_assembly": "FU602",
+            "quantity": 3
+        }
+    ],
+    "PDB604": [
+        {
+            "part_no": "569030",
+            "parent_assembly": "PDB604",
+            "quantity": 3
+        }
+    ],
+    "MSP1200-1": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP1200-1",
+            "quantity": 1
+        }
+    ],
+    "ol": [
+        {
+            "part_no": "3RV2901-2F",
+            "parent_assembly": "ol",
+            "quantity": 1
+        }
+    ],
+    "conn": [
+        {
+            "part_no": "3RA2911-2AA00",
+            "parent_assembly": "conn",
+            "quantity": 1
+        }
+    ],
+    "aux": [
+        {
+            "part_no": "3RT2015-2BB41",
+            "parent_assembly": "aux",
+            "quantity": 1
+        }
+    ],
+    "disc": [
+        {
+            "part_no": "LBS-RLO16/3PM-D1/Z33/GB",
+            "parent_assembly": "disc",
+            "quantity": 1
+        }
+    ],
+    "MSP1200-2": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP1200-2",
+            "quantity": 1
+        }
+    ],
+    "MSP1201-1": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP1201-1",
+            "quantity": 1
+        }
+    ],
+    "MSP1201-2": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP1201-2",
+            "quantity": 1
+        }
+    ],
+    "MSP1300-1": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP1300-1",
+            "quantity": 1
+        }
+    ],
+    "MSP1300-2": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP1300-2",
+            "quantity": 1
+        }
+    ],
+    "MSP1301-1": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP1301-1",
+            "quantity": 1
+        }
+    ],
+    "MSP1301-2": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP1301-2",
+            "quantity": 1
+        }
+    ],
+    "MSP1403": [
+        {
+            "part_no": "3RV2011-1FA20",
+            "parent_assembly": "MSP1403",
+            "quantity": 1
+        }
+    ],
+    "MSP2101": [
+        {
+            "part_no": "3RV2011-1FA20",
+            "parent_assembly": "MSP2101",
+            "quantity": 1
+        }
+    ],
+    "MSP6100-1": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP6100-1",
+            "quantity": 1
+        }
+    ],
+    "MSP6100-2": [
+        {
+            "part_no": "3RV2011-1BA20",
+            "parent_assembly": "MSP6100-2",
+            "quantity": 1
+        }
+    ],
+    "MSP6101-1": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP6101-1",
+            "quantity": 1
+        }
+    ],
+    "MSP6101-2": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP6101-2",
+            "quantity": 1
+        }
+    ],
+    "MSP6102": [
+        {
+            "part_no": "3RV2011-1DA20",
+            "parent_assembly": "MSP6102",
+            "quantity": 1
+        }
+    ],
+    "MSP7101": [
+        {
+            "part_no": "3RV2011-1FA20",
+            "parent_assembly": "MSP7101",
+            "quantity": 1
+        }
+    ],
+    "MSP1201": [
+        {
+            "part_no": "3RV2011-1AA20",
+            "parent_assembly": "MSP1201",
+            "quantity": 1
+        }
+    ],
+    "MSP1301": [
+        {
+            "part_no": "3RV2011-1AA20",
+            "parent_assembly": "MSP1301",
+            "quantity": 1
+        }
+    ],
+    "MSP1302": [
+        {
+            "part_no": "3RV2011-1AA20",
+            "parent_assembly": "MSP1302",
+            "quantity": 1
+        }
+    ],
+    "MSP1401": [
+        {
+            "part_no": "3RV2011-1AA20",
+            "parent_assembly": "MSP1401",
+            "quantity": 1
+        }
+    ],
+    "MSP1402": [
+        {
+            "part_no": "3RV2011-1AA20",
+            "parent_assembly": "MSP1402",
+            "quantity": 1
+        }
+    ],
+    "MSP2102": [
+        {
+            "part_no": "3RV2011-1EA20",
+            "parent_assembly": "MSP2102",
+            "quantity": 1
+        }
+    ],
+    "VFD": [
+        {
+            "part_no": "6SL3220-3YE10-0UF0",
+            "parent_assembly": "VFD",
+            "quantity": 1
+        }
+    ],
+    "MSP3002": [
+        {
+            "part_no": "3RV2011-1CA20",
+            "parent_assembly": "MSP3002",
+            "quantity": 1
+        }
+    ],
+    "MSP2000": [
+        {
+            "part_no": "3RV2011-1JA20",
+            "parent_assembly": "MSP2000",
+            "quantity": 1
+        }
+    ],
+    "DS2000": [
+        {
+            "part_no": "LBS-RLO16/3PM-D1/Z33/GB",
+            "parent_assembly": "DS2000",
+            "quantity": 1
+        }
+    ],
+    "MSP7102": [
+        {
+            "part_no": "3RV2011-1FA20",
+            "parent_assembly": "MSP7102",
+            "quantity": 1
+        }
+    ],
+    "DS7102": [
+        {
+            "part_no": "LBS-RLO16/3PM-D1/Z33/GB",
+            "parent_assembly": "DS7102",
+            "quantity": 1
+        }
+    ],
+    "FU1404": [
+        {
+            "part_no": "LPJ-40SP",
+            "parent_assembly": "FU1404",
+            "quantity": 2
+        },
+        {
+            "part_no": "US6J2I",
+            "parent_assembly": "FU1404",
+            "quantity": 1
+        }
+    ],
+    "XF1406": [
+        {
+            "part_no": "Q007LEKF",
+            "parent_assembly": "XF1406",
+            "quantity": 1
+        }
+    ],
+    "FU1407": [
+        {
+            "part_no": "LPJ-80SP",
+            "parent_assembly": "FU1407",
+            "quantity": 1
+        },
+        {
+            "part_no": "JM60100-1CR",
+            "parent_assembly": "FU1407",
+            "quantity": 1
+        }
+    ],
+    "PDB1407": [
+        {
+            "part_no": "569030",
+            "parent_assembly": "PDB1407",
+            "quantity": 2
+        }
+    ],
+    "CB1411": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB1411",
+            "quantity": 1
+        }
+    ],
+    "ESTOP-LCP": [
+        {
+            "part_no": "10250T5",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250T1",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TC53",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250T97L",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "RL1-CL4-120",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "ESTOP-LCP",
+            "quantity": 3
+        }
+    ],
+    "MCR1411": [
+        {
+            "part_no": "700-P400A1",
+            "parent_assembly": "MCR1411",
+            "quantity": 1
+        },
+        {
+            "part_no": "700-PB40",
+            "parent_assembly": "MCR1411",
+            "quantity": 1
+        }
+    ],
+    "LT1413": [
+        {
+            "part_no": "10250T297L",
+            "parent_assembly": "LT1413",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TC26",
+            "parent_assembly": "LT1413",
+            "quantity": 1
+        },
+        {
+            "part_no": "RL1-CL1-120",
+            "parent_assembly": "LT1413",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "LT1413",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "LT1413",
+            "quantity": 3
+        }
+    ],
+    "CB1419": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB1419",
+            "quantity": 1
+        }
+    ],
+    "PANEL LIGHT": [
+        {
+            "part_no": "BY SHOP",
+            "parent_assembly": "PANEL LIGHT",
+            "quantity": 1
+        }
+    ],
+    "CB1422": [
+        {
+            "part_no": "M9F42108",
+            "parent_assembly": "CB1422",
+            "quantity": 1
+        }
+    ],
+    "CB1426": [
+        {
+            "part_no": "M9F42105",
+            "parent_assembly": "CB1426",
+            "quantity": 1
+        }
+    ],
+    "CR-MSX3001": [
+        {
+            "part_no": "56.32.9.024.0074",
+            "parent_assembly": "CR-MSX3001",
+            "quantity": 1
+        },
+        {
+            "part_no": "96.72SMA",
+            "parent_assembly": "CR-MSX3001",
+            "quantity": 1
+        }
+    ],
+    "DS3001": [
+        {
+            "part_no": "LBS-RLO16/3PM-D1/Z33/GB",
+            "parent_assembly": "DS3001",
+            "quantity": 1
+        },
+        {
+            "part_no": "LBS-N20AV",
+            "parent_assembly": "DS3001",
+            "quantity": 1
+        }
+    ],
+    "CB1526": [
+        {
+            "part_no": "M9F42170",
+            "parent_assembly": "CB1526",
+            "quantity": 1
+        }
+    ],
+    "LSH6000": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSH6000",
+            "quantity": 1
+        }
+    ],
+    "CB1602": [
+        {
+            "part_no": "M9F42170",
+            "parent_assembly": "CB1602",
+            "quantity": 1
+        }
+    ],
+    "LSL6201": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6201",
+            "quantity": 1
+        }
+    ],
+    "LSL6301": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6301",
+            "quantity": 1
+        }
+    ],
+    "LSL6502": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6502",
+            "quantity": 1
+        }
+    ],
+    "LSL6602": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6602",
+            "quantity": 1
+        }
+    ],
+    "LSL6701": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6701",
+            "quantity": 1
+        }
+    ],
+    "LSL6702": [
+        {
+            "part_no": "3UG4501-1AW30",
+            "parent_assembly": "LSL6702",
+            "quantity": 1
+        }
+    ],
+    "CB1902": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB1902",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6201": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6201",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6202": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6202",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6301": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6301",
+            "quantity": 1
+        }
+    ],
+    "CB1917": [
+        {
+            "part_no": "M9F42106",
+            "parent_assembly": "CB1917",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6501": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6501",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6502": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6502",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6503": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6503",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6504": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6504",
+            "quantity": 1
+        }
+    ],
+    "CB2002": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2002",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6601": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6601",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6602": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6602",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6603": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6603",
+            "quantity": 1
+        }
+    ],
+    "CB2017": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2017",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6701": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6701",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6702": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6702",
+            "quantity": 1
+        }
+    ],
+    "CB2026": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2026",
+            "quantity": 1
+        }
+    ],
+    "CR-MP6901": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MP6901",
+            "quantity": 1
+        }
+    ],
+    "CB2202": [
+        {
+            "part_no": "M9F42105",
+            "parent_assembly": "CB2202",
+            "quantity": 1
+        }
+    ],
+    "SS2202": [
+        {
+            "part_no": "4983-PF120-05",
+            "parent_assembly": "SS2202",
+            "quantity": 1
+        }
+    ],
+    "CB2208": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2208",
+            "quantity": 1
+        }
+    ],
+    "RECPT-LCP": [
+        {
+            "part_no": "DAP3BC-SO-5U",
+            "parent_assembly": "RECPT-LCP",
+            "quantity": 1
+        }
+    ],
+    "CB2303": [
+        {
+            "part_no": "M9F42110",
+            "parent_assembly": "CB2303",
+            "quantity": 1
+        }
+    ],
+    "PWS2303": [
+        {
+            "part_no": "6EP1336-2BA10",
+            "parent_assembly": "PWS2303",
+            "quantity": 1
+        }
+    ],
+    "CB2308": [
+        {
+            "part_no": "M9F42110",
+            "parent_assembly": "CB2308",
+            "quantity": 1
+        }
+    ],
+    "PWS2308": [
+        {
+            "part_no": "6EP1336-2BA10",
+            "parent_assembly": "PWS2308",
+            "quantity": 1
+        }
+    ],
+    "CB2313": [
+        {
+            "part_no": "M9F42110",
+            "parent_assembly": "CB2313",
+            "quantity": 1
+        }
+    ],
+    "PWS2313": [
+        {
+            "part_no": "6EP1336-2BA10",
+            "parent_assembly": "PWS2313",
+            "quantity": 1
+        }
+    ],
+    "CB2316": [
+        {
+            "part_no": "M9F42120",
+            "parent_assembly": "CB2316",
+            "quantity": 1
+        }
+    ],
+    "CB2318": [
+        {
+            "part_no": "M9F42120",
+            "parent_assembly": "CB2318",
+            "quantity": 1
+        }
+    ],
+    "CB2320": [
+        {
+            "part_no": "M9F42120",
+            "parent_assembly": "CB2320",
+            "quantity": 1
+        }
+    ],
+    "PDB2320": [
+        {
+            "part_no": "569030",
+            "parent_assembly": "PDB2320",
+            "quantity": 2
+        }
+    ],
+    "CB2327": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2327",
+            "quantity": 1
+        }
+    ],
+    "EWON-LCP": [
+        {
+            "part_no": "FLEXY205",
+            "parent_assembly": "EWON-LCP",
+            "quantity": 1
+        }
+    ],
+    "WIFI CARD": [
+        {
+            "part_no": "FLB3271",
+            "parent_assembly": "WIFI CARD",
+            "quantity": 1
+        }
+    ],
+    "CB2331": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2331",
+            "quantity": 1
+        }
+    ],
+    "ES-LCP-1": [
+        {
+            "part_no": "6GK5008-0BA10-1AB2",
+            "parent_assembly": "ES-LCP-1",
+            "quantity": 1
+        }
+    ],
+    "ES-LCP-2": [
+        {
+            "part_no": "6GK5008-0BA10-1AB2",
+            "parent_assembly": "ES-LCP-2",
+            "quantity": 1
+        }
+    ],
+    "CB2336": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2336",
+            "quantity": 1
+        }
+    ],
+    "HMI-LCP": [
+        {
+            "part_no": "6AV2 124-0MC01-0AX0",
+            "parent_assembly": "HMI-LCP",
+            "quantity": 1
+        }
+    ],
+    "CB2340": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2340",
+            "quantity": 1
+        }
+    ],
+    "RACK 1 SLOT 0": [
+        {
+            "part_no": "6ES7 505-0RA00-0AB0",
+            "parent_assembly": "RACK 1 SLOT 0",
+            "quantity": 1
+        }
+    ],
+    "CR-PS2901": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-PS2901",
+            "quantity": 1
+        }
+    ],
+    "XL2903": [
+        {
+            "part_no": "10250T197L",
+            "parent_assembly": "XL2903",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TC1N",
+            "parent_assembly": "XL2903",
+            "quantity": 1
+        },
+        {
+            "part_no": "RL1-CL4-24",
+            "parent_assembly": "XL2903",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "XL2903",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "XL2903",
+            "quantity": 3
+        }
+    ],
+    "CB2405": [
+        {
+            "part_no": "M9F42170",
+            "parent_assembly": "CB2405",
+            "quantity": 1
+        }
+    ],
+    "CB2405A": [
+        {
+            "part_no": "M9F42170",
+            "parent_assembly": "CB2405A",
+            "quantity": 1
+        }
+    ],
+    "CB2407": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2407",
+            "quantity": 1
+        }
+    ],
+    "CB2407A": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2407A",
+            "quantity": 1
+        }
+    ],
+    "ETHERNET SPLITTER": [
+        {
+            "part_no": "2904290",
+            "parent_assembly": "ETHERNET SPLITTER",
+            "quantity": 1
+        }
+    ],
+    "CB2413": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2413",
+            "quantity": 1
+        }
+    ],
+    "CB2413A": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2413A",
+            "quantity": 1
+        }
+    ],
+    "CB2415": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2415",
+            "quantity": 1
+        }
+    ],
+    "CB2415A": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2415A",
+            "quantity": 1
+        }
+    ],
+    "CB2423": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2423",
+            "quantity": 1
+        }
+    ],
+    "CB2423A": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2423A",
+            "quantity": 1
+        }
+    ],
+    "ES-IP2100": [
+        {
+            "part_no": "EKI-2525LI",
+            "parent_assembly": "ES-IP2100",
+            "quantity": 1
+        }
+    ],
+    "CB2503": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2503",
+            "quantity": 1
+        }
+    ],
+    "CB2505": [
+        {
+            "part_no": "M9F42104",
+            "parent_assembly": "CB2505",
+            "quantity": 1
+        }
+    ],
+    "CB2507": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2507",
+            "quantity": 1
+        }
+    ],
+    "CB2509": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2509",
+            "quantity": 1
+        }
+    ],
+    "CB2511": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2511",
+            "quantity": 1
+        }
+    ],
+    "CB2513": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2513",
+            "quantity": 1
+        }
+    ],
+    "CB2515": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2515",
+            "quantity": 1
+        }
+    ],
+    "CB2517": [
+        {
+            "part_no": "M9F42102",
+            "parent_assembly": "CB2517",
+            "quantity": 1
+        }
+    ],
+    "CB2519": [
+        {
+            "part_no": "M9F42105",
+            "parent_assembly": "CB2519",
+            "quantity": 1
+        }
+    ],
+    "CB2527": [
+        {
+            "part_no": "M9F42105",
+            "parent_assembly": "CB2527",
+            "quantity": 1
+        }
+    ],
+    "CB2529": [
+        {
+            "part_no": "M9F42105",
+            "parent_assembly": "CB2529",
+            "quantity": 1
+        }
+    ],
+    "CB2531": [
+        {
+            "part_no": "M9F42103",
+            "parent_assembly": "CB2531",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 1": [
+        {
+            "part_no": "6ES7 515-2AM01-0AB0",
+            "parent_assembly": "RACK1 SLOT 1",
+            "quantity": 1
+        }
+    ],
+    "MEMORY CARD": [
+        {
+            "part_no": "6ES7 954-8LP02-0AA0",
+            "parent_assembly": "MEMORY CARD",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 2": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 2",
+            "quantity": 1
+        }
+    ],
+    "FRONT CONNECTOR": [
+        {
+            "part_no": "6ES7 592-1BM00-0XB0",
+            "parent_assembly": "FRONT CONNECTOR",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 3": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 3",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 4": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 4",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 5": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 5",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 6": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 6",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 7": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 7",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 8": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 8",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 9": [
+        {
+            "part_no": "6ES7 531-7KF00-0AB0",
+            "parent_assembly": "RACK1 SLOT 9",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 10": [
+        {
+            "part_no": "6ES7 521-1BL10-0AA0",
+            "parent_assembly": "RACK1 SLOT 10",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 11": [
+        {
+            "part_no": "6ES7 522-1BL10-0AA0",
+            "parent_assembly": "RACK1 SLOT 11",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 12": [
+        {
+            "part_no": "6ES7 522-1BL10-0AA0",
+            "parent_assembly": "RACK1 SLOT 12",
+            "quantity": 1
+        }
+    ],
+    "RACK1 SLOT 13": [
+        {
+            "part_no": "6ES7 522-1BH10-0AA0",
+            "parent_assembly": "RACK1 SLOT 13",
+            "quantity": 1
+        }
+    ],
+    "PB2901": [
+        {
+            "part_no": "10250T103",
+            "parent_assembly": "PB2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250T1",
+            "parent_assembly": "PB2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "PB2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "PB2901",
+            "quantity": 2
+        }
+    ],
+    "PB2902": [
+        {
+            "part_no": "10250T102",
+            "parent_assembly": "PB2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250T1",
+            "parent_assembly": "PB2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "PB2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "PB2902",
+            "quantity": 2
+        }
+    ],
+    "CR-UV2000": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-UV2000",
+            "quantity": 1
+        }
+    ],
+    "CR-VFD2000": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-VFD2000",
+            "quantity": 1
+        }
+    ],
+    "CR-MS(MOONSTONE)": [
+        {
+            "part_no": "38.51.7.024.0050",
+            "parent_assembly": "CR-MS(MOONSTONE)",
+            "quantity": 1
+        }
+    ],
+    "STACKLIGHT-LCP": [
+        {
+            "part_no": "SL7-CB-100",
+            "parent_assembly": "STACKLIGHT-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "SL7-L24-G",
+            "parent_assembly": "STACKLIGHT-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "SL7-L24-Y",
+            "parent_assembly": "STACKLIGHT-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "SL7-L24-R",
+            "parent_assembly": "STACKLIGHT-LCP",
+            "quantity": 1
+        },
+        {
+            "part_no": "SL7-AP24",
+            "parent_assembly": "STACKLIGHT-LCP",
+            "quantity": 1
+        }
+    ],
+    "XL2901": [
+        {
+            "part_no": "10250T197L",
+            "parent_assembly": "XL2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TC2N",
+            "parent_assembly": "XL2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "RL1-CL3-24",
+            "parent_assembly": "XL2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "XL2901",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "XL2901",
+            "quantity": 3
+        }
+    ],
+    "XL2902": [
+        {
+            "part_no": "10250T197L",
+            "parent_assembly": "XL2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TC3N",
+            "parent_assembly": "XL2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "RL1-CL5-24",
+            "parent_assembly": "XL2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TK3",
+            "parent_assembly": "XL2902",
+            "quantity": 1
+        },
+        {
+            "part_no": "10250TA101",
+            "parent_assembly": "XL2902",
+            "quantity": 3
+        }
+    ],
+    "I/O IND. FUSEBLOCK": [
+        {
+            "part_no": "0222760001",
+            "parent_assembly": "I/O IND. FUSEBLOCK",
+            "quantity": 153
+        }
+    ],
+    "I/O FUSES 0.2A": [
+        {
+            "part_no": "GGM2/10",
+            "parent_assembly": "I/O FUSES 0.2A",
+            "quantity": 64
+        }
+    ],
+    "I/O FUSES 0.5A": [
+        {
+            "part_no": "GGM1/2",
+            "parent_assembly": "I/O FUSES 0.5A",
+            "quantity": 89
+        }
+    ],
+    "3ph 2 slot\n+ end cover": [
+        {
+            "part_no": "3RV2917-1A",
+            "parent_assembly": "3ph 2 slot\n+ end cover",
+            "quantity": 1
+        }
+    ],
+    "2 slot ext +\next connector": [
+        {
+            "part_no": "3RV2917-4A",
+            "parent_assembly": "2 slot ext +\next connector",
+            "quantity": 1
+        }
+    ],
+    "3 slot ext": [
+        {
+            "part_no": "3RV2917-4B",
+            "parent_assembly": "3 slot ext",
+            "quantity": 7
+        }
+    ],
+    "S00 top conn.": [
+        {
+            "part_no": "3RV2917-5AA00",
+            "parent_assembly": "S00 top conn.",
+            "quantity": 24
+        }
+    ],
+    "S00 cont. base": [
+        {
+            "part_no": "3RV2917-7AA00",
+            "parent_assembly": "S00 cont. base",
+            "quantity": 24
+        }
+    ]
 }

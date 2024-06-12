@@ -1,0 +1,99 @@
+{
+    "REMOVED": [
+        {
+            "parent_assembly": "IP7101",
+            "quantity": 1,
+            "part_no": "A1412CH"
+        },
+        {
+            "parent_assembly": "",
+            "quantity": 1,
+            "part_no": "A14P12"
+        },
+        {
+            "parent_assembly": "JB1",
+            "quantity": 1,
+            "part_no": "RHJ1816HWPL2LG"
+        },
+        {
+            "parent_assembly": "",
+            "quantity": 1,
+            "part_no": "A18P16"
+        },
+        {
+            "parent_assembly": "JB2100",
+            "quantity": 1,
+            "part_no": "A1412CH"
+        },
+        {
+            "parent_assembly": "",
+            "quantity": 1,
+            "part_no": "A14P12"
+        },
+        {
+            "parent_assembly": "JB6000",
+            "quantity": 1,
+            "part_no": "JBX664"
+        },
+        {
+            "parent_assembly": "",
+            "quantity": 1,
+            "part_no": "BP66CSW"
+        },
+        {
+            "parent_assembly": "MSP7102",
+            "quantity": 1,
+            "part_no": "3RV2011-1FA20"
+        },
+        {
+            "parent_assembly": "ol",
+            "quantity": 1,
+            "part_no": "3RV2901-2F"
+        },
+        {
+            "parent_assembly": "conn",
+            "quantity": 1,
+            "part_no": "3RA2911-2AA00"
+        },
+        {
+            "parent_assembly": "aux",
+            "quantity": 1,
+            "part_no": "3RT2015-2BB41"
+        },
+        {
+            "parent_assembly": "disc",
+            "quantity": 1,
+            "part_no": "LBS-RLO16/3PM-D1/Z33/GB"
+        },
+        {
+            "parent_assembly": "CB1419",
+            "quantity": 1,
+            "part_no": "M9F42101"
+        },
+        {
+            "parent_assembly": "",
+            "quantity": 1,
+            "part_no": "SPA-2-HT-20W-WT40-12"
+        },
+        {
+            "parent_assembly": "CB1902",
+            "quantity": 1,
+            "part_no": "M9F42110"
+        },
+        {
+            "parent_assembly": "CB2002",
+            "quantity": 1,
+            "part_no": "M9F42110"
+        },
+        {
+            "parent_assembly": "CB2421",
+            "quantity": 1,
+            "part_no": "M9F42170"
+        },
+        {
+            "parent_assembly": "CB2421A",
+            "quantity": 1,
+            "part_no": "M9F42170"
+        }
+    ]
+}
